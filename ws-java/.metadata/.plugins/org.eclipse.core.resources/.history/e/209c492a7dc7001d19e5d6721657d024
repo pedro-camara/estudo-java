@@ -26,7 +26,6 @@ public class Main {
 		System.out.printf("Valor a pagar: R$ %2.f%n", valorPagar);
 		
 		
-		
 		sc.close();		
 	}
 
