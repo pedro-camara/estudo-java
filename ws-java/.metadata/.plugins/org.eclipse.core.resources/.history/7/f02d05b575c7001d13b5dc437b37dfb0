@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner c = new Scanner(System.in);
+		
+		Double pi = 3.14159;
+		Double raio = sc.nextDouble();
+		
+	}
+
+}

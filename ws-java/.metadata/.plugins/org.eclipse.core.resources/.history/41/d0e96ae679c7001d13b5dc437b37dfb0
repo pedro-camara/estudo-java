@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int codPeca1, codPeca2, qtdPeca1, qtdPeca2;
+		Double valorPeca1, valorPeca2, valorPagarP1, valorPagarP2;
+		
+		codPeca1 = sc.nextInt();
+		qtdPeca1 = sc.nextInt();
+		valorPeca1 = sc.nextDouble();
+		
+		codPeca2 = sc.nextInt();
+		qtdPeca2 = sc.nextInt();
+		valorPeca2 = sc.nextDouble();
+		
+	}
+
+}
